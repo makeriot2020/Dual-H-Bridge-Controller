@@ -18,14 +18,20 @@ The documantation for the project is here:
 On our Website (https://www.makeriot2020.com)
 
 Part 1: https://www.makeriot2020.com/index.php/make-your-own/what-is-an-h-bridge-motor-controller/
+
 Part 2: https://www.makeriot2020.com/index.php/make-your-own/using-the-h-bridge-motor-controller-a-practical-example/
+
 Part 3: https://www.makeriot2020.com/index.php/pcb-files-for-dual-h-bridge/
+
 
 or, if you prefer hackster.io 
 
 Part 1: https://www.hackster.io/MakerIoT2020/what-is-an-h-bridge-motor-controller-part-1-2e47fd
+
 Part 2: https://www.hackster.io/MakerIoT2020/using-the-h-bridge-motor-controller-a-practical-example-8bd9fc
+
 Part 3: https://www.hackster.io/MakerIoT2020/pcb-files-for-dual-h-bridge-final-part-5f51bf
+
 
 
 
